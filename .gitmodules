@@ -1,0 +1,3 @@
+[submodule "news-app"]
+	path = news-app
+	url = https://github.com/xaviernadal/news-app-angular-ionic.git
