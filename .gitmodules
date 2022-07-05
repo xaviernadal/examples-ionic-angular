@@ -4,3 +4,9 @@
 [submodule "films-app"]
 	path = films-app
 	url = https://github.com/xaviernadal/films-app.git
+[submodule "reciclica-app"]
+	path = reciclica-app
+	url = https://github.com/xaviernadal/reciclica-app.git
+[submodule "simple-push-notifications-ang-io"]
+	path = simple-push-notifications-ang-io
+	url = https://github.com/xaviernadal/simple-push-notifications-ang-io.git
