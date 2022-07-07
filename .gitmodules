@@ -10,3 +10,6 @@
 [submodule "films-app"]
 	path = films-app
 	url = https://github.com/xaviernadal/films-app.git
+[submodule "guardLogin-ionic"]
+	path = guardLogin-ionic
+	url = https://github.com/xaviernadal/guardLogin-ionic.git
